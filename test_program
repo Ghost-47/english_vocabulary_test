@@ -1,0 +1,16 @@
+'''
+this program is test my english vocabulary.
+
+
+'''
+
+vocabulary_list = {run:ran,meet:met}
+vocabulary_present = [run,meet]
+vocabulary_past = [ran,met]
+
+input_vaculary = input('please imput vocabulary')
+
+if vocabulary_list{vocabulary_list[]} = input_vaculary:
+    print('you are right')
+else:
+    print('you need more effort')
